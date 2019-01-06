@@ -36,7 +36,7 @@ Dataset for this project can be found [here](https://www.kaggle.com/iarunava/cel
 
 ## Authors
 
-1. [Sachin S Dev](https://github.com/heysachin)
+1. [Sachin Dev S](https://github.com/heysachin)
 2. [P S Vishnu](https://github.com/p-s-vishnu/)
 
 
