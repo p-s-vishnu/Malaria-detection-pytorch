@@ -32,7 +32,7 @@ Dataset for this project can be found [here](https://www.kaggle.com/iarunava/cel
 
 ## Output
 
-
+![output](Images/output.jpg)
 
 ## Authors
 
