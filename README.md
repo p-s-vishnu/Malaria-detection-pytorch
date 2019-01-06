@@ -20,7 +20,7 @@ Dataset for this project can be found [here](https://www.kaggle.com/iarunava/cel
 
 ## How to run this project
 
-1. (Easiest) Fork our [Kaggle notebook](https://www.kaggle.com/devilsknight/malaria-detection-with-pytorch) and try it out.
+1. (Easiest) Fork our [**Kaggle notebook**](https://www.kaggle.com/devilsknight/malaria-detection-with-pytorch) and try it out.
 
 2. You can run it using [**Colab**](https://colab.research.google.com/github/p-s-vishnu/Malaria-detection-pytorch/blob/master/kernel.ipynb). 
 
@@ -28,7 +28,7 @@ Dataset for this project can be found [here](https://www.kaggle.com/iarunava/cel
 
    Run the command:` jupyter notebook` and then select the file `kernel.ipynb` from the browser.
 
-Note: You will have to download dataset for step 2 and 3.
+>  Note: You will have to download the [dataset](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria) for step 2 and 3.
 
 ## Output
 
